@@ -1,0 +1,11 @@
+{
+  "name": "@vitkonstacky/eslint-config-base",
+  "version": "1.0.0",
+  "description": "Base configuration for eslint",
+  "license": "MIT",
+  "author": "Vít Konštacký",
+  "main": "index.js",
+  "peerDependencies": {
+    "eslint": ">= 8"
+  }
+}
